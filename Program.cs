@@ -1,0 +1,3 @@
+﻿// place to run the questions
+
+new MergeSortedArray().Run();
