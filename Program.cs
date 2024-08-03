@@ -2,4 +2,6 @@
 
 // new MergeSortedArray().Run();
 
-new RemoveElement().Run();
+// new RemoveElement().Run();
+
+new RemoveDuplicates().Run();
